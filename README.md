@@ -17,8 +17,7 @@ Datos de salida El programa debe generar el archivo CLAVE.OUT, en el directorio 
 
 Por ejemplo, si la entrada es: 
 
-(OO*O*OO*OOO*OOOO*OO)  
-
+![image](https://user-images.githubusercontent.com/69863123/150907582-89240421-b3a7-484b-a09d-0b7315078b7d.png)  
 
 La salida debe contener:
 
