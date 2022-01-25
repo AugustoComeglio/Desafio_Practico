@@ -17,7 +17,7 @@ Datos de salida El programa debe generar el archivo CLAVE.OUT, en el directorio 
 
 Por ejemplo, si la entrada es: 
 
-OO*O*OO*OOO*OOOO*OO  
+(OO*O*OO*OOO*OOOO*OO)  
 
 
 La salida debe contener:
